@@ -1,8 +1,4 @@
 <resources>
-    <!--
-  Assignment# - InClass06
-  Names : Sujanth Babu Guntupalli
-          Mounika Yendluri -->
     <string name="app_name">InClass06</string>
     <string name="Show_Categories">Show Categories</string>
     <string name="Go_Button">Go</string>

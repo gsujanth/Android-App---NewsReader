@@ -1,10 +1,5 @@
 package com.example.princ.inclass06;
 
-/*Assignment# - InClass06
-  Names : Sujanth Babu Guntupalli
-          Mounika Yendluri
-*/
-
 public class NewsArticle {
     String title;
     String publishedAt;
